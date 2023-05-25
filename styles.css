@@ -2,5 +2,6 @@
 .holder{
 	display:flex;
 	Justify-content:center;
-	flex-wrap:wrap;
+/* 	flex-wrap:wrap; */
+	align-items:center;
 }
